@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabriel Angeles <ragabriel.dev@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bin":{
+    "random-messages":"./bin/global.js"
+  },
+  "preferGlobal": true
 }
