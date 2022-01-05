@@ -1,0 +1,11 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "Proyecto para entender funcionamiento de npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Angeles <ragabriel.dev@gmail.com>",
+  "license": "ISC"
+}
